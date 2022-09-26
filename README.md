@@ -1,6 +1,6 @@
 # Test
 
-- Aprendendo Githu
+- Learning Github
 
-1. Eu sei como enviar modificações para o Github
-2. Alterando online em github.com
+1. I know how to push modifications to Github
+2. Chaging online on github.com
